@@ -1,4 +1,4 @@
-# MIPS Assembly Simulator 
+# MIPS Assembly Emulator 
 
 A simplified MIPS processor simulator built in C for CDA3103C: Computer Organization.  
 This project emulates the datapath, control signals, and instruction-level behavior of a basic MIPS processor using a modular C implementation.
